@@ -1,0 +1,7 @@
+{
+  "name": "LakersSummerProject",
+  "description": "Lakers Summer League Internship Project",
+  "repository": "https://github.com/heroku/LakersSummerProject",
+  "keywords": ["node", "express", "heroku"],
+  "image": "heroku/nodejs"
+}
