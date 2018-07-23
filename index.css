@@ -1,0 +1,100 @@
+/*
+** Jonathan Ortiz
+** Lakers Interview Project
+** Style Sheet
+*/
+
+body {
+	background-image: url("/page_layout_files/repeating-background-image.jpg");
+	background-repeat: repeat;
+	background-size: 10%;
+	
+}
+
+#recap {
+	
+}
+
+#boxscore {
+	width: 100%;
+	display: none;
+}
+
+#boxscore_frame {
+	width: 100%;
+	height: 700px;
+}
+
+#video {
+	display: none;
+}
+
+#photo {
+	display: none;
+}
+
+#header {
+	text-align: center;
+}
+
+#head_logo {
+	width: 30%;
+}
+
+#footer {
+	text-align: center;
+	margin-top: 20px;
+}
+
+/* All items in the left column */
+.leftcol {
+	font-family: Didot, serif;
+}
+
+#button_container {
+	width: 100%;
+	text-align: center;
+}
+
+.circular {
+	width: 100%;
+	height: 35px;
+	background-color: #E0B01B;
+	border-radius: 4px;
+	border: 2px solid #000000;
+	color: black;
+	margin-bottom: 20px;
+}
+
+.circular:hover {
+	background-color: #BB941A;
+}
+
+#store_ad {
+	width: 100%;
+}
+
+/* All items in the right column */
+.rightcol {
+	background-color: white;
+	font-family: Didot, serif;
+	padding: 15px;
+}
+
+/* Recap */
+#opening_pic {
+	width: 100%;
+	margin-bottom: 15px;
+}
+
+.twitter_media {
+	width: 100%;
+	text-align: center;
+}
+
+/* Video */
+.youtube {
+	display: block;
+  margin: 0 auto;
+}
+
